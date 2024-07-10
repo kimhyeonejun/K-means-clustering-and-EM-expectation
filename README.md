@@ -1,4 +1,4 @@
-# My implementation of K-means clustering and E-M expectation
+# My implementation of K-means clustering and E-M clustering
 This is my implementation of K-means Clustering and E-M expectation. <br>
 <br>
 **1. K-means clustering** <br>
