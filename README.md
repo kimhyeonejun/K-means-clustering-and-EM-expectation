@@ -7,7 +7,7 @@ With different number of neighbors, costs and all images corresponding to each n
 | Original | `<K = 2>` | `<K = 4>` | `<K = 8>` |
 |--------------|----------------|-----------------|-----------------|
 | ![Original](https://github.com/kimhyeonejun/K-means-clustering-and-EM-expectation/assets/103301952/d3846632-aa29-4bca-a47c-f0afb42f896b) | ![K=2](https://github.com/kimhyeonejun/K-means-clustering-and-EM-expectation/assets/103301952/48305fc3-79de-4a42-aa3c-5b3bf46fb4bd) | ![K=4](https://github.com/kimhyeonejun/K-means-clustering-and-EM-expectation/assets/103301952/a227b405-3cf2-4cd2-9e0a-37f238526605) | ![K=8](https://github.com/kimhyeonejun/K-means-clustering-and-EM-expectation/assets/103301952/aa6d289d-3c2f-4529-b5d5-9596581fa4f1) |
-| **Original** | **`<Loss: 29.69dB>`** | **`<Loss: 26.84dB>`** | **`<Loss: >`** |
+| **Original** | **`<Loss: 21.4>`** | **`<Loss: 12.7>`** | **`<Loss: 8.73>`** |
 
 
 **2. E-M expectation clustering** <br>
