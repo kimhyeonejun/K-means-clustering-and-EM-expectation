@@ -10,7 +10,7 @@ With different number of neighbors, costs and all images corresponding to each n
 | **Original** | **`<Loss: 21.4>`** | **`<Loss: 12.7>`** | **`<Loss: 8.73>`** |
 
 
-**2. E-M expectation clustering** <br>
+**2. E-M clustering** <br>
 E-M expection finds out the best clusters that express the images, given the certain number of clusters. We use E-step to calculate the information of each cluster and M-step to update every parameter. All the information includes means, variances, and mixing probabilities. Instead of displaying them all, I only show images to examplify how E-M expectation becomes more powerful with describing details of an image with higher number of clusters.
 
 | Original | `<K = 2>` | `<K = 4>` | `<K = 8>` |
